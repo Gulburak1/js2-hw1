@@ -1,0 +1,25 @@
+form{
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+    width: 500px;
+}
+input{
+    display: block;
+    margin: auto;
+}
+.butt{
+    display: block;
+    margin: auto;
+    border: 1px solid rgb(60, 255, 0);
+    width: 100px;
+    text-align: center;
+    background: rgb(58, 205, 13);
+    color: white;
+}
+.p3{
+    width: 100%;
+    text-align: center;
+    color: red;
+}
